@@ -103,7 +103,7 @@ Selecting an optimal K-value for K-means clustering using the **Elbow Method**.
 
 In the Elbow method, we vary the number of clusters ( K ) from between some values. For each value of K, we calculate WCSS ( Within-Cluster Sum of Square). WCSS is the sum of the squared distance between each point and the centroid in a cluster. When we plot the WCSS with the K value, the plot looks like an Elbow. As the number of clusters increases, the WCSS value will start to decrease. When we analyze the graph we can see that the graph will rapidly change at a point and thus creating an elbow shape. From this point, the graph starts to move almost parallel to the X-axis. The K value corresponding to this point is the optimal K value or an optimal number of clusters.  
 
-![alt text](./images/.png)  
+![alt text](./images/elbow_output.png)  
 
 
 
@@ -114,11 +114,11 @@ By using the optimal value of k=4, we used the K-Means algorithm from sklearn an
 ## Results
 The clusters are plotted on the geo map which can be seen as shown in the figure.
 
-![alt text](./images/.png)  
+![alt text](./images/clustered_neighbors.png)  
 
 
 
-![alt text](./images/.png)  
+![alt text](./images/clustered_neighbors_table.png)  
 
 
 The 4 clusters are color-coded with the colors red, green, blue, and orange to give a good visual representation.
