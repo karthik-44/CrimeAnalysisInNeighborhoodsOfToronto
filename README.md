@@ -114,11 +114,11 @@ By using the optimal value of k=4, we used the K-Means algorithm from sklearn an
 ## Results
 The clusters are plotted on the geo map which can be seen as shown in the figure.
 
-![alt text](./images/clustered_neighbors.png)  
+![alt text](./images/clustered_neighbors.jpg)  
 
 
 
-![alt text](./images/clustered_neighbors_table.png)  
+![alt text](./images/clustered_neighbors_table.jpg)  
 
 
 The 4 clusters are color-coded with the colors red, green, blue, and orange to give a good visual representation.
