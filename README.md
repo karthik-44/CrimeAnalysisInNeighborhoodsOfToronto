@@ -1,12 +1,6 @@
-# CrimeAnalysisInNeighborhoodsOfToronto
-
-This project was done as part of course CSCE676 Data mining and analysis.
-Used the data from kaggle datasets.
-Performed the EDA and implemented just K-Means clustering algorithm.
-Future work is to use the FP-growth or associative mining techniques for frequent item-sets.
+# Criminal Analysis in the Neighborhoods of Toronto
 
 
-Project Website : https://sites.google.com/view/crime-analysis/home
 
 ## Abstract
 
@@ -132,4 +126,9 @@ Although we deploy specialized units or personnel, there may be unaccounted obst
 
 ## Future Scope:
 
-Given a larger dataset containing more values for each of unique crimes, we can do frequent itemset mining with most crime types occurring in a location as items and the locations as baskets. This frequent item-sets can then be used in our K-means model to find the clusters of neighborhoods specific to the frequent item-sets of crimes.
+Given a larger dataset containing more values for each of unique crimes, we can do frequent itemset mining with most crime types occurring in a location as items and the locations as baskets. This frequent item-sets can then be used in our K-means model to find the clusters of neighborhoods specific to the frequent item-sets of crimes.  
+
+
+I would like to thank Swaroop, Sachith and Pooja who worked with me for this project.  
+
+Project Website : https://sites.google.com/view/crime-analysis/home
